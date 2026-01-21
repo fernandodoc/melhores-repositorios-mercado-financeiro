@@ -2,6 +2,7 @@
 Os Melhores Repositórios do Mercado Financeiro
 
 📊 MELHORES REPOSITÓRIOS DO GITHUB – MERCADO FINANCEIRO (PYTHON)
+
 🧠 1. Terminais financeiros & Research Platforms
 🔹 OpenBB
 
